@@ -1,0 +1,6 @@
+telegram:
+    token: "5466537522:AAF4-H8wWWaQHjNIxWWuDgpvf7VwfvR4Wzg"
+    chat_id: "5031781738"
+mqtt:
+    broker_address: "localhost"
+      
