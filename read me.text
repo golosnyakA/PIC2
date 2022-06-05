@@ -1,0 +1,12 @@
+Project by Nicolas Wendland & Alexander Golosnyak PIC2
+
+The first step is to start the main.py 
+Then open the bot in Telegram
+by /subscribe you can subscribe to the the temperature and humidity sensor
+
+Then you can publish the sensors values by using the start.py script
+The values will be published until the script is interrupted 
+The sensors are designed to rise since the temperatur and humidity would rise in a real situation
+
+by /stop telegram will unsubscribe the topics
+Thank you!
